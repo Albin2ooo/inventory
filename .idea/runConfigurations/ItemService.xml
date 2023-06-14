@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ItemService" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <option name="ALTERNATIVE_JRE_PATH" value="graalvm-17" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <module name="item-service" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="in.stackroute.Main" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
